@@ -28,6 +28,8 @@ If you are going for the kill and you really want to wow us:
 2.  Options like Mail, Export to xls etc
 3.  Build visualiztions on the web from the data stored in your DB
 
+If you feel IRC is dead then use build slackbot! :)
+
 ### Final Words
 When you are done, please just create a pull request on this repo. We would like you to come in and present your code to the whole team. 
 
