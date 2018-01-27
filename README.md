@@ -22,6 +22,10 @@ We have included a few sample conversations to get you started below. Be creativ
 - dilip: @bot addm new Shrivatsa
 - bot: Shrivatsa created
 
+Next
+- Integrate with a chat solution like Slack
+- Define commands and enable actions on the chat (Slack) interface
+
 If you are going for the kill and you really want to wow us:
 
 1.  Pull Reports on Historical Data. Ex: @bot report Jan
