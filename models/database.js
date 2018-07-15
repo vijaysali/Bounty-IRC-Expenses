@@ -12,4 +12,6 @@ client.connect();
 const query = client.query(
   'CREATE TABLE users(id SERIAL PRIMARY KEY, username VARCHAR(250) UNIQUE NOT NULL, user_source VARCHAR(250));');
 
+
+
 query.on('end', () => { client.end(); });
